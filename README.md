@@ -12,7 +12,7 @@ Se utilizaron Python, SQL y herramientas de visualización para responder a preg
 
 ## Contenido del repositorio
 
-- `enunciado.pdf`: este es el enunciado del trabajo práctico provisto por la materia 'Laboratorio de datos'. Acá     figuran las preguntas específicas a responder, los gráficos a presentar y la estructura que debe tener el         proyecto. 
+- [enunciado.pdf](./enunciado.pdf): este es el enunciado del trabajo práctico provisto por la materia 'Laboratorio de datos'. Acá     figuran las preguntas específicas a responder, los gráficos a presentar y la estructura que debe tener el         proyecto. 
 - `desarrollo.py`: este es el archivo principal del proyecto. Acá se cargan, exploran
   y curan los datos, se normalizan las tablas, se responden las preguntas.
   propuestas y se generan los gráficos solicitados.
