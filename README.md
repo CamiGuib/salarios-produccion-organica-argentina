@@ -8,7 +8,7 @@ El objetivo principal de este trabajo es determinar si existe cierta relación e
 
 Para realizar este análisis se debieron hacer tareas diversas tales como la descarga de los datos, la identificación de dependencias funcionales, la construcción de un modelo conceptual de los datos y un curado de datos. 
 
-Se utilizaron Python, SQL y herramientas de visualización para responder preguntas específicas y presentar los resultados obtenidos. 
+Se utilizaron Python, SQL y herramientas de visualización para responder a preguntas específicas y presentar los resultados obtenidos. 
 
 ## Contenido del repositorio
 
