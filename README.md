@@ -4,9 +4,11 @@ Proyecto realizado como trabajo práctico para la materia "Laboratorio de datos"
 
 ## Descripción del proyecto
 
-El objetivo principal de este trabajo es determinar si existe cierta relación entre el desarrollo de la actividad de los Operadores Orgánicos Certidicados y el salario promedio que perciben los trabajadores del sector privado en cada departamento de las provincias argentinas. \n
+El objetivo principal de este trabajo es determinar si existe cierta relación entre el desarrollo de la actividad de los Operadores Orgánicos Certidicados y el salario promedio que perciben los trabajadores del sector privado en cada departamento de las provincias argentinas. 
+
 Para realizar este análisis se debieron hacer tareas diversas tales como la descarga de los datos, la identificación de dependencias funcionales, la construcción de un modelo conceptual de los datos y un curado de datos. 
-Se utilizó Python, SQL y herramientas de visualización para responder preguntas específicas y presentar los resultados obtenidos. 
+
+Se utilizaron Python, SQL y herramientas de visualización para responder preguntas específicas y presentar los resultados obtenidos. 
 
 ## Contenido del repositorio
 
