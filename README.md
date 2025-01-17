@@ -14,8 +14,7 @@ Se utilizaron Python y SQL para responder a preguntas específicas y presentar l
 
 - [enunciado.pdf](./enunciado.pdf): este es el enunciado del trabajo práctico provisto por la materia 'Laboratorio de datos'. Acá     figuran las preguntas específicas a responder, los gráficos a presentar y la estructura que debe tener el         proyecto. 
 - [desarrollo.py](./desarrollo.py): este es el archivo principal del proyecto. Acá se cargan, exploran
-  y curan los datos, se normalizan las tablas, se responden las preguntas.
-  propuestas y se generan los gráficos solicitados.
+  y curan los datos, se normalizan las tablas, se responden las preguntas propuestas y se generan los gráficos solicitados.
 - [funciones.py](./funciones.py): aquí se encuentran los códigos de todas las funciones utilizadas en `desarrollo.py`.
 - [testing.py](./testing.py): acá están todos los tests utilizados para testear las funciones de `funciones.py`.
 - [informe.pdf](./informe.pdf): acá se detallan todos los procedimientos llevados a cabo para realizar este proyecto y se exponen   los resultados obtenidos. 
